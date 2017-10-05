@@ -7,6 +7,41 @@
         mc:Ignorable="d"
         Title="Level2" Height="500" Width="750" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="Blue" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Rectangle x:Name="thirteen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="34,271,0,0" Fill="#FF64C8EB" GotFocus="thirteen_GotFocus"/>
+        <Rectangle x:Name="one" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="34,20,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
+        <Rectangle x:Name="nine" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="34,189,0,0" Fill="#FF64C8EB" GotFocus="nine_GotFocus"/>
+        <Rectangle x:Name="five" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="34,106,0,0" Fill="#FF64C8EB" GotFocus="five_GotFocus"/>
+        <Rectangle x:Name="fourteen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="150,271,0,0" Fill="#FF64C8EB" GotFocus="fourteen_GotFocus"/>
+        <Rectangle x:Name="two" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="150,20,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
+        <Rectangle x:Name="ten" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="150,189,0,0" Fill="#FF64C8EB" GotFocus="ten_GotFocus"/>
+        <Rectangle x:Name="six" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="150,106,0,0" Fill="#FF64C8EB" GotFocus="six_GotFocus"/>
+        <Rectangle x:Name="fifteen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="275,271,0,0" Fill="#FF64C8EB" GotFocus="fifteen_GotFocus"/>
+        <Rectangle x:Name="three" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="275,20,0,0" Fill="#FF64C8EB" GotFocus="three_GotFocus"/>
+        <Rectangle x:Name="eleven" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="275,189,0,0" Fill="#FF64C8EB" GotFocus="eleven_GotFocus"/>
+        <Rectangle x:Name="seven" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="275,106,0,0" Fill="#FF64C8EB" GotFocus="seven_GotFocus"/>
+        <Rectangle x:Name="sixteen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="395,271,0,0" Fill="#FF64C8EB" GotFocus="sixteen_GotFocus"/>
+        <Rectangle x:Name="four" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="395,20,0,0" Fill="#FF64C8EB" GotFocus="four_GotFocus"/>
+        <Rectangle x:Name="twelve" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="395,189,0,0" Fill="#FF64C8EB" GotFocus="twelve_GotFocus"/>
+        <Rectangle x:Name="eight" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="395,106,0,0" Fill="#FF64C8EB" GotFocus="eight_GotFocus"/>
+        <Rectangle x:Name="eighteen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="150,355,0,0" Fill="#FF64C8EB" GotFocus="eighteen_GotFocus"/>
+        <Rectangle x:Name="twenty" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="395,355,0,0" Fill="#FF64C8EB" GotFocus="twenty_GotFocus"/>
+        <Rectangle x:Name="nineteen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="275,355,0,0" Fill="#FF64C8EB" GotFocus="nineteen_GotFocus"/>
+        <Rectangle x:Name="seventeen" HorizontalAlignment="Left" Height="70" Stroke="Black" VerticalAlignment="Top" Width="84" Margin="34,355,0,0" Fill="#FF64C8EB" GotFocus="seventeen_GotFocus"/>
+
+
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,403,0,0" Fill="#FF64C8EB"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,403,0,0" Fill="#FF64C8EB"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,199,0,0" Fill="#FF64C8EB"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,271,0,0" Fill="#FF64C8EB"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,338,0,0" Fill="#FF64C8EB"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,59,0,0" Fill="#FF64C8EB"/>
+
     </Grid>
 </Window>

@@ -23,5 +23,10 @@ namespace memoryGame
 		{
 			InitializeComponent();
 		}
-	}
+
+        private void two_GotFocus(object sender, RoutedEventArgs e)
+        {
+
+        }
+    }
 }
