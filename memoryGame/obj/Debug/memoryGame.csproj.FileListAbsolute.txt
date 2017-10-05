@@ -1,14 +1,21 @@
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\bin\Debug\memoryGame.exe
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame.csprojResolveAssemblyReference.cache
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\MainWindow.g.cs
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\App.g.cs
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame_MarkupCompile.cache
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame_MarkupCompile.lref
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\MainWindow.baml
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame.g.resources
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.Cache
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame.exe
-c:\users\saad\documents\visual studio 2017\Projects\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
+E:\C#\memory game\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
+E:\C#\memory game\memoryGame\memoryGame\bin\Debug\memoryGame.exe
+E:\C#\memory game\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.csprojResolveAssemblyReference.cache
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\MainWindow.g.cs
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\App.g.cs
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame_MarkupCompile.cache
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame_MarkupCompile.lref
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\MainWindow.baml
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.g.resources
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.Cache
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.exe
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\Level1.g.cs
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\Level2.g.cs
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\Level99.g.cs
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\Level1.baml
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\Level2.baml
+E:\C#\memory game\memoryGame\memoryGame\obj\Debug\Level99.baml

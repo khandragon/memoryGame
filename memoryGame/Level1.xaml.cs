@@ -15,79 +15,94 @@ using System.Windows.Shapes;
 
 namespace memoryGame
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
-    {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
+	/// <summary>
+	/// Interaction logic for MainWindow.xaml
+	/// </summary>
+	public partial class Level1 : Window
+	{
+		public Level1()
+		{
+			InitializeComponent();
+		}
 
-        private void one_GotFocus(object sender, RoutedEventArgs e)
-        {
-            
-        }
+		private void one_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void two_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void two_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void three_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void three_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void five_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void five_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void nine_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void nine_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void four_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void four_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void six_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void six_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void seven_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void seven_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void eight_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void eight_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void ten_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void ten_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void eleven_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void eleven_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void twelve_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
+		private void twelve_GotFocus(object sender, RoutedEventArgs e)
+		{
 
-        private void thirteen_GotFocus(object sender, RoutedEventArgs e)
-        {
+		}
 
-        }
-    }
+		private void thirteen_GotFocus(object sender, RoutedEventArgs e)
+		{
+
+		}
+
+		private void fourteen_GotFocus(object sender, RoutedEventArgs e)
+		{
+
+		}
+
+		private void fifteen_GotFocus(object sender, RoutedEventArgs e)
+		{
+
+		}
+
+		private void sixteen_GotFocus(object sender, RoutedEventArgs e)
+		{
+
+		}
+	}
 }
