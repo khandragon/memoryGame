@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="Level99" Height="500" Width="750" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Rectangle x:Name="one" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,28,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
+        <Rectangle x:Name="one" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,28,0,0" Fill="#FF64C8EB"/>
 
 
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,396,0,0" Fill="#FF64C8EB"/>
@@ -23,69 +23,70 @@
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,240,0,0" Fill="#FF64C8EB"/>
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,292,0,0" Fill="#FF64C8EB"/>
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,80,0,0" Fill="#FF64C8EB"/>
-        <Rectangle x:Name="one_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,28,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,28,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,28,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,80,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,80,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,80,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,80,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,80,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,80,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,80,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,133,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,133,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,133,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,133,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,133,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,133,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,133,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,188,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,188,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,188,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,188,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,188,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,188,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,240,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,240,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,240,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,240,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,240,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,240,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,240,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,292,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,292,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,292,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,292,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,292,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,292,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,292,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,344,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,344,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,344,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,344,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,344,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,344,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,344,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,188,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="one_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,396,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-        <Rectangle x:Name="four_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,396,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="five_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,396,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="six_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,396,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="seven_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,396,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="eight_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,396,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle x:Name="nine_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,396,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
+        <Rectangle x:Name="one_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy1" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,28,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy2" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,80,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy3" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,133,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy5" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,240,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy6" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,292,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy7" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,344,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy4" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,188,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="one_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="20,396,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="four_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="482,396,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="five_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="404,396,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="six_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="322,396,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="seven_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="247,396,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="eight_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="167,396,0,0" Fill="#FF64C8EB"/>
+        <Rectangle x:Name="nine_Copy8" HorizontalAlignment="Left" Height="47" Stroke="Black" VerticalAlignment="Top" Width="51" Margin="95,396,0,0" Fill="#FF64C8EB"/>
+        <Button x:Name="backBtn" Content="_Back" HorizontalAlignment="Left" Margin="10,441,0,0" VerticalAlignment="Top" Width="75" IsCancel="True" Click="backBtn_Click"/>
 
     </Grid>
 </Window>

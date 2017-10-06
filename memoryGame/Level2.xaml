@@ -42,6 +42,7 @@
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,271,0,0" Fill="#FF64C8EB"/>
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,338,0,0" Fill="#FF64C8EB"/>
         <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,59,0,0" Fill="#FF64C8EB"/>
+        <Button x:Name="backBtn" Content="_Back" HorizontalAlignment="Left" Margin="10,441,0,0" VerticalAlignment="Top" Width="75" IsCancel="True" Click="backBtn_Click"/>
 
     </Grid>
 </Window>

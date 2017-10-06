@@ -124,5 +124,11 @@ namespace memoryGame
 
         }
 
+        private void backBtn_Click(object sender, RoutedEventArgs e)
+        {
+            var win = new MainWindow();
+            win.Show();
+            this.Close();
+        }
     }
 }
