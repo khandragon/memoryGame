@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-H:\c#\memoryGame\memoryGame\obj\Debug\
+C:\Users\Saad\Documents\Visual Studio 2017\Projects\memoryGame\memoryGame\obj\Debug\
 memoryGame
 none
 false
 DEBUG;TRACE
-H:\c#\memoryGame\memoryGame\App.xaml
+C:\Users\Saad\Documents\Visual Studio 2017\Projects\memoryGame\memoryGame\App.xaml
 51481713133
 
 91919455095
 131569487696
 Leaderboard.xaml;Level1.xaml;Level2.xaml;Level99.xaml;MainWindow.xaml;
 
-False
+True
 
