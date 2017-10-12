@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\memoryTemp\memoryGame\memoryGame\obj\Debug\
+H:\c#\memoryGame\memoryGame\obj\Debug\
 memoryGame
 none
 false
 DEBUG;TRACE
-C:\memoryTemp\memoryGame\memoryGame\App.xaml
-42054132119
+H:\c#\memoryGame\memoryGame\App.xaml
+51481713133
 
-81547895331
+91919455095
 131569487696
-Level1.xaml;Level2.xaml;Level99.xaml;MainWindow.xaml;
+Leaderboard.xaml;Level1.xaml;Level2.xaml;Level99.xaml;MainWindow.xaml;
 
 False
 

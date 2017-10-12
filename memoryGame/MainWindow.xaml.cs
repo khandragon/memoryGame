@@ -50,5 +50,12 @@ namespace memoryGame
 		{
 			this.Close();
 		}
-	}
+
+        private void leaderboardBtn_Click(object sender, RoutedEventArgs e)
+        {
+            var win = new Leaderboard();
+            win.Show();
+            this.Close();
+        }
+    }
 }

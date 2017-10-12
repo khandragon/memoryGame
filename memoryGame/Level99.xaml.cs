@@ -28,8 +28,7 @@ namespace memoryGame
         {
 
         }
-
-<<<<<<< HEAD
+        
         private void six_GotFocus(object sender, RoutedEventArgs e)
         {
 
@@ -213,13 +212,13 @@ namespace memoryGame
         private void thirtyone_GotFocus(object sender, RoutedEventArgs e)
         {
 
-=======
+        }
+
         private void backBtn_Click(object sender, RoutedEventArgs e)
         {
             var win = new MainWindow();
             win.Show();
             this.Close();
->>>>>>> 5d30c954928af3f40cdde366b943db1cef559528
         }
     }
 }
