@@ -14,112 +14,112 @@ using System.Windows.Shapes;
 
 namespace memoryGame
 {
-	/// <summary>
-	/// Interaction logic for Level2.xaml
-	/// </summary>
-	public partial class Level2 : Window
-	{
-		public Level2()
-		{
-			InitializeComponent();
-		}
+    /// <summary>
+    /// Interaction logic for Level2.xaml
+    /// </summary>
+    public partial class Level2 : Window
+    {
+        public Level2()
+        {
+            InitializeComponent();
+        }
 
-        private void fourteen_GotFocus(object sender, RoutedEventArgs e)
+        private void fourteen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void two_GotFocus(object sender, RoutedEventArgs e)
+        private void two_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void ten_GotFocus(object sender, RoutedEventArgs e)
+        private void ten_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void six_GotFocus(object sender, RoutedEventArgs e)
+        private void six_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void fifteen_GotFocus(object sender, RoutedEventArgs e)
+        private void fifteen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void three_GotFocus(object sender, RoutedEventArgs e)
+        private void three_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void eleven_GotFocus(object sender, RoutedEventArgs e)
+        private void eleven_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void seven_GotFocus(object sender, RoutedEventArgs e)
+        private void seven_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void sixteen_GotFocus(object sender, RoutedEventArgs e)
+        private void sixteen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void four_GotFocus(object sender, RoutedEventArgs e)
+        private void four_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void twelve_GotFocus(object sender, RoutedEventArgs e)
+        private void twelve_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void eight_GotFocus(object sender, RoutedEventArgs e)
+        private void eight_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void eighteen_GotFocus(object sender, RoutedEventArgs e)
+        private void eighteen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void twenty_GotFocus(object sender, RoutedEventArgs e)
+        private void twenty_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void nineteen_GotFocus(object sender, RoutedEventArgs e)
+        private void nineteen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void thirteen_GotFocus(object sender, RoutedEventArgs e)
+        private void thirteen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void one_GotFocus(object sender, RoutedEventArgs e)
+        private void one_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void nine_GotFocus(object sender, RoutedEventArgs e)
+        private void nine_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void five_GotFocus(object sender, RoutedEventArgs e)
+        private void five_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void seventeen_GotFocus(object sender, RoutedEventArgs e)
+        private void seventeen_MouseLeftButtonDown(object sender, RoutedEventArgs e)
         {
 
         }
@@ -129,6 +129,25 @@ namespace memoryGame
             var win = new MainWindow();
             win.Show();
             this.Close();
+        }
+
+        private void Start_MouseLeftButtonDown(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Stop_MouseLeftButtonDown(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void changeLvl_up_MouseLeftButtonDown(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void changeLvl_down_MouseLeftButtonDown(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

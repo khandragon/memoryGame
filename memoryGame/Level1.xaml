@@ -6,36 +6,34 @@
         xmlns:local="clr-namespace:memoryGame"
         mc:Ignorable="d"
         Title="Level 1" Height="500" Width="750" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
-	<Grid>
-		<Grid.Background>
-			<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-				<GradientStop Color="Black" Offset="0"/>
-				<GradientStop Color="Blue" Offset="1"/>
-			</LinearGradientBrush>
-		</Grid.Background>
-		<Rectangle x:Name="thirteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="34,336,0,0" Fill="#FF64C8EB" GotFocus="thirteen_GotFocus"/>
-		<Rectangle x:Name="fourteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,336,0,0" Fill="#FF64C8EB" GotFocus="fourteen_GotFocus"/>
-		<Rectangle x:Name="fifteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,336,0,0" Fill="#FF64C8EB" GotFocus="fifteen_GotFocus"/>
-		<Rectangle x:Name="sixteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,336,0,0" Fill="#FF64C8EB" GotFocus="sixteen_GotFocus"/>
-		<Rectangle x:Name="twelve" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,237,0,0" Fill="#FF64C8EB" GotFocus="twelve_GotFocus"/>
-		<Rectangle x:Name="eleven" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,237,0,0" Fill="#FF64C8EB" GotFocus="eleven_GotFocus"/>
-		<Rectangle x:Name="ten" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,237,0,0" Fill="#FF64C8EB" GotFocus="ten_GotFocus"/>
-		<Rectangle x:Name="eight" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,139,0,0" Fill="#FF64C8EB" GotFocus="eight_GotFocus"/>
-		<Rectangle x:Name="seven" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,139,0,0" Fill="#FF64C8EB" GotFocus="seven_GotFocus"/>
-		<Rectangle x:Name="six" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,139,0,0" Fill="#FF64C8EB" GotFocus="six_GotFocus"/>
-		<Rectangle x:Name="four" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,49,0,0" Fill="#FF64C8EB" GotFocus="four_GotFocus"/>
-		<Rectangle x:Name="one" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="35,49,0,0" Fill="#FF64C8EB" GotFocus="one_GotFocus"/>
-		<Rectangle x:Name="nine" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="35,237,0,0" Fill="#FF64C8EB" GotFocus="nine_GotFocus"/>
-		<Rectangle x:Name="five" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="35,139,0,0" Fill="#FF64C8EB" GotFocus="five_GotFocus"/>
-		<Rectangle x:Name="three" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,49,0,0" Fill="#FF64C8EB" GotFocus="three_GotFocus"/>
-        <Rectangle x:Name="two" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,49,0,0" Fill="#FF64C8EB" GotFocus="two_GotFocus"/>
-        <Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,393,0,0" Fill="#FF64C8EB"/>
-		<Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,123,0,0" Fill="#FF64C8EB"/>
-		<Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,189,0,0" Fill="#FF64C8EB"/>
-		<Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,261,0,0" Fill="#FF64C8EB"/>
-		<Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,328,0,0" Fill="#FF64C8EB"/>
-		<Rectangle HorizontalAlignment="Left" Height="36" Stroke="Black" VerticalAlignment="Top" Width="133" Margin="552,49,0,0" Fill="#FF64C8EB"/>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="Blue" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Rectangle x:Name="thirteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="34,336,0,0" Fill="#FF64C8EB" GotFocus="thirteen_MouseLeftButtonDown"/>
+        <Rectangle x:Name="fourteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,336,0,0" Fill="#FF64C8EB" GotFocus="fourteen_MouseLeftButtonDown"/>
+        <Rectangle x:Name="fifteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,336,0,0" Fill="#FF64C8EB" GotFocus="fifteen_MouseLeftButtonDown"/>
+        <Rectangle x:Name="sixteen" HorizontalAlignment="Left" Height="96" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,336,0,0" Fill="#FF64C8EB" GotFocus="sixteen_MouseLeftButtonDown"/>
+        <Rectangle x:Name="twelve" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,237,0,0" Fill="#FF64C8EB" GotFocus="twelve_MouseLeftButtonDown"/>
+        <Rectangle x:Name="eleven" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,237,0,0" Fill="#FF64C8EB" GotFocus="eleven_MouseLeftButtonDown"/>
+        <Rectangle x:Name="ten" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,237,0,0" Fill="#FF64C8EB" GotFocus="ten_MouseLeftButtonDown"/>
+        <Rectangle x:Name="eight" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,139,0,0" Fill="#FF64C8EB" GotFocus="eight_MouseLeftButtonDown"/>
+        <Rectangle x:Name="seven" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,139,0,0" Fill="#FF64C8EB" GotFocus="seven_MouseLeftButtonDown"/>
+        <Rectangle x:Name="six" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,139,0,0" Fill="#FF64C8EB" GotFocus="six_MouseLeftButtonDown"/>
+        <Rectangle x:Name="four" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="396,49,0,0" Fill="#FF64C8EB" GotFocus="four_MouseLeftButtonDown"/>
+        <Rectangle x:Name="one" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="35,49,0,0" Fill="#FF64C8EB" GotFocus="one_MouseLeftButtonDown"/>
+        <Rectangle x:Name="nine" HorizontalAlignment="Left" Height="94" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="35,237,0,0" Fill="#FF64C8EB" GotFocus="nine_MouseLeftButtonDown"/>
+        <Rectangle x:Name="five" HorizontalAlignment="Left" Height="93" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="35,139,0,0" Fill="#FF64C8EB" GotFocus="five_MouseLeftButtonDown"/>
+        <Rectangle x:Name="three" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="275,49,0,0" Fill="#FF64C8EB" GotFocus="three_MouseLeftButtonDown"/>
+        <Rectangle x:Name="two" HorizontalAlignment="Left" Height="85" Stroke="Black" VerticalAlignment="Top" Width="91" Margin="153,49,0,0" Fill="#FF64C8EB" GotFocus="two_MouseLeftButtonDown"/>
+        <Rectangle x:Name="Stop" HorizontalAlignment="Left" Height="52" Stroke="Black" VerticalAlignment="Top" Width="147" Margin="552,120,0,0" Fill="#FF5EF6F9"/>
+        <Rectangle x:Name="NextLvl" HorizontalAlignment="Left" Height="51" Stroke="Black" VerticalAlignment="Top" Width="147" Margin="552,194,0,0" Fill="#FF5EF6F9"/>
+        <Rectangle x:Name="Time" HorizontalAlignment="Left" Height="51" Stroke="Black" VerticalAlignment="Top" Width="147" Margin="552,269,0,0" Fill="#FF5EF6F9"/>
+        <Rectangle x:Name="Attempts" HorizontalAlignment="Left" Height="52" Stroke="Black" VerticalAlignment="Top" Width="147" Margin="552,341,0,0" Fill="#FF5EF6F9"/>
+        <Rectangle x:Name="Start" HorizontalAlignment="Left" Height="53" Stroke="Black" VerticalAlignment="Top" Width="147" Margin="552,49,0,0" Fill="#FF5EF6F9" GotFocus="Start_MouseLeftButtonDown"/>
         <Button x:Name="backBtn" Content="_Back" HorizontalAlignment="Left" Margin="10,439,0,0" VerticalAlignment="Top" Width="75" Height="22" IsCancel="True" Click="backBtn_Click"/>
-
     </Grid>
 </Window>
